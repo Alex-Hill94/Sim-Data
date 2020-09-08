@@ -13,4 +13,6 @@ Flags: Flag to indicate whether subhalo is likely of comsmological origin. For m
 
 StellarMass: Sum of stellar particle masses bound to a subhalo. Only in baryonic simulation files. [1e10 solar masses]
 
+SubhaloMass: Sum of all particle masses bound to a subhalo. [1e10 solar masses]
+
 HaloMass: Sum of particle masses bound to host FOF halo. [1e10 solar masses]
