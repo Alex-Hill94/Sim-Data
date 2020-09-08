@@ -11,4 +11,4 @@ if dmo:
 
 unpickled_df = pd.read_pickle("./"+sim+"_catalogue.pkl")
 
-StellarMass = unpickled_df["StellarMass"]
+SubhaloMass = unpickled_df["SubhaloMass"]
