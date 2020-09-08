@@ -1,6 +1,3 @@
-import numpy as np
-import illustris_python as il
-import pickle as pkl
 import pandas as pd
 
 sim = 'TNG300-1'
