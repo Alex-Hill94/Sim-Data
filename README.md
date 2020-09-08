@@ -1,5 +1,6 @@
 # Sim-Data
 ## Repository for the storage of simulation data. Descrition of data arrays below taken from tng-project.org/data/ 
+## Find .pkl files here https://www.astro.ljmu.ac.uk/~ariahill/#work
 
 SubGroupNumber: -99 if a satellite, 0 if a central
 
