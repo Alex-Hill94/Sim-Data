@@ -1,6 +1,6 @@
 # Sim-Data
 
-Repository for the storage of simulation data. Descrition of data arrays below taken from tng-project.org/data/ 
+Repository for the storage of simulation data. Descrition of data arrays below taken from https://www.tng-project.org/data/
 
 Find .pkl files here https://www.astro.ljmu.ac.uk/~ariahill/#work
 
