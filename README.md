@@ -15,4 +15,4 @@ StellarMass: Sum of stellar particle masses bound to a subhalo. Only in baryonic
 
 SubhaloMass: Sum of all particle masses bound to a subhalo. [1e10 solar masses]
 
-HaloMass: Sum of particle masses bound to host FOF halo. [1e10 solar masses]
+HaloMass: M200, total mass of the group enclosed in a sphere whose mean density is 200 times the critical density of the Universe, at the time the halo is considered. [1e10 solar masses]
