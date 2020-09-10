@@ -1,3 +1,6 @@
+## Python 3.6.5
+## IPython 6.4.0
+
 import numpy as np
 import illustris_python as il
 import pickle as pkl
@@ -67,6 +70,6 @@ elif dmo:
                     "SubhaloMass": SubhaloMass,
                     "HaloMass": HaloMass})
 
-
-df.to_pickle('./'+sim+'_catalogue.pkl')
+# protocol = 2 to allow backwards compatiblitiy with Python2.7
+df.to_pickle('./'+sim+'_catalogue_prt_2.pkl', protocol= 2
 
